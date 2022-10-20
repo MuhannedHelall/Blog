@@ -145,6 +145,7 @@
                     <li><a href="#">Phone</a></li>
                     <li><a href="#">Accessories</a></li>
                     <li><a href="#">Cart</a></li>
+                    <li><a href="login.php">logout</a></li>
                 </ul>
             </div>
         </nav>
